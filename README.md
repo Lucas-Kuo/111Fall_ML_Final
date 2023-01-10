@@ -38,7 +38,6 @@ After you've done the steps above, make sure you have the directory structure be
 ├── model9.h5
 ├── models.zip
 ├── sample_submission.csv
-├── submission_final.csv
 ├── tabular-playground-series-aug-2022.zip
 ├── test.csv
 └── train.csv
