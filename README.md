@@ -4,6 +4,7 @@ To reproduce the submission, follow the instructions below to reconstruct the en
 
 1. [Download necessary packages](#Download-necessary-packages)
 2. [Download the model weight](#Download-the-model-weight)
+3. [Download the datasets](#Download-the-datasets)
 
 ## Download necessary packages
 To download the necessary Python packages, simply run `pip install -r requirement.txt` in this repo.
