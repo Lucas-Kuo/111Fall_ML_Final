@@ -23,7 +23,7 @@ Download the dataset of the competition from [here](https://www.kaggle.com/compe
 
 ---
 
-After you've done the steps above, make sure you have the data structure below:
+After you've done the steps above, make sure you have the directory structure below:
 ```
 .
 ├── model0.h5
